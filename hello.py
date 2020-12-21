@@ -1,3 +1,3 @@
 print("hello")
-print('today is dongzhi')
-print("wuyu")
+print('today is s')
+
